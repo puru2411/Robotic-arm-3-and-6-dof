@@ -1,4 +1,8 @@
-# code written by Purushotam Kumar Agrawal { git ---> PURU2411 }
+"""
+	code by purushotam kumar agrawal  {git --> PURU2411 }
+	Motion controller of 6 dof kuka arm
+    
+"""
 
 from sympy import symbols, cos, sin, pi, simplify, pprint, tan, expand_trig, sqrt, trigsimp, atan2
 from sympy.matrices import Matrix
